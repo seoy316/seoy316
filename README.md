@@ -11,6 +11,6 @@
 ### Tool
 <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"> <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"> <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoy316&layout=compact&include_forks=true"/> <img src="https://github-readme-stats.vercel.app/api?username=seoy316" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=seoy316" />
 
